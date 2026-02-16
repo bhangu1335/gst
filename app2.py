@@ -5,7 +5,7 @@ import re
 # ======================================
 # PAGE CONFIG
 # ======================================
-st.set_page_config(page_title="GST SaaS Reconciliation", layout="wide")
+st.set_page_config(page_title="GST Reconciliation", layout="wide")
 
 st.title("🚀 GST Reconciliation Dashboard")
 
